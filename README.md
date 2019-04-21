@@ -1,3 +1,3 @@
-# cloud-devsecops
+# Cloud-DevSecOps
 Automating Cloud DevSecOps
-Automation project to automate the building of a s3 bucket-based website
+Automation Project to Automate the Building of a S3 Bucket-based Website
